@@ -1,0 +1,7 @@
+Based upon
+Timeline Component in React (and some CSS Magic) - Day 06
+https://www.youtube.com/watch?v=tcUVUBlyXX8&feature=youtu.be&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200122+web+nl&mkt_tok=eyJpIjoiTkRRM01UTXlObUZpTWpObCIsInQiOiJpUndNRWN2SUFGc2VPYlZQQ00weXhxczFZTWFEeXRXNXlPSmNSWGZRc3lEaWRZeFFRRk5EdFNnSzJsdHFBb1plem1iSFhrRTRPUEc1VmZHR3I5ZE9HRzRTVnpuRVpIUHRKVmRlZmVpV2o4Q1lmNGRpMytPUCswc1dxZXdYdWsweiJ9
+
+cd C:\Spence\ReactApps
+#create app
+create-react-app react-timeline
