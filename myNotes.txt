@@ -5,3 +5,23 @@ https://www.youtube.com/watch?v=tcUVUBlyXX8&feature=youtu.be&utm_medium=email&ut
 cd C:\Spence\ReactApps
 #create app
 create-react-app react-timeline
+
+
+# install JavaScript Standard Style
+npm install standard --global
+
+# install for ECMAScript
+npm install babel-eslint --save-dev
+
+# edit package.json and add:
+   ...
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  ...
+
+# check code
+standard
+
+# fix the warnings
+standard --fix

@@ -1,8 +1,8 @@
 const data = [
   {
-    text: "This is the first smart outcome",
-    date: "Jan 29, 2020",
-    category : {
+    text: 'This is the first smart outcome',
+    date: 'Jan 29, 2020',
+    category: {
       tag: 'medium',
       color: '#018f69'
     },
@@ -12,9 +12,9 @@ const data = [
     }
   },
   {
-    text: "This is the second smart outcome",
-    date: "Jan 30, 2020",
-    category : {
+    text: 'This is the second smart outcome',
+    date: 'Jan 30, 2020',
+    category: {
       tag: 'app-ideas',
       color: '#FFDB14'
     },
@@ -24,9 +24,9 @@ const data = [
     }
   },
   {
-    text: "This is the third smart outcome",
-    date: "Jan 30, 2020",
-    category : {
+    text: 'This is the third smart outcome',
+    date: 'Jan 30, 2020',
+    category: {
       tag: 'blog',
       color: '#e17b77'
     },
@@ -36,9 +36,9 @@ const data = [
     }
   },
   {
-    text: "This is the another smart outcome",
-    date: "Jan 30, 2020",
-    category : {
+    text: 'This is the another smart outcome',
+    date: 'Jan 30, 2020',
+    category: {
       tag: 'blog',
       color: '#e17b77'
     },
@@ -48,9 +48,9 @@ const data = [
     }
   },
   {
-    text: "This is the another smart outcome",
-    date: "Jan 30, 2020",
-    category : {
+    text: 'This is the another smart outcome',
+    date: 'Jan 30, 2020',
+    category: {
       tag: 'blog',
       color: '#e17b77'
     },
@@ -61,4 +61,4 @@ const data = [
   }
 ]
 
-export default data;
+export default data
